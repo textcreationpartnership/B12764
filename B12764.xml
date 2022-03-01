@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The effect of certaine branches of the statute made in anno xxxiij. Henrici viij. touching the maintenance of artillerie, and the punishment of such as vse vnlawfull games, very necessary to be put in execution.</title>
+            <title>Laws, etc. (Public general acts)</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1608</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12764</idno>
+            <idno type="STC">STC 8416</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.10[85]</idno>
+            <idno type="EEBO-CITATION">99892792</idno>
+            <idno type="PROQUEST">ocm99892792</idno>
+            <idno type="VID">187181</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B12764)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187181)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C7:1[85])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The effect of certaine branches of the statute made in anno xxxiij. Henrici viij. touching the maintenance of artillerie, and the punishment of such as vse vnlawfull games, very necessary to be put in execution.</title>
+                  <title>Laws, etc. (Public general acts)</title>
+                  <author>England and Wales.</author>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno Dom. 1608.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An abridgment of Public General Act 33 Hen.VIII.c.9, reissued periodically in an attempt at enforcement.</note>
+                  <note>Below imprint: Cum priuilegio Regiæ Maiestatis.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Archery --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Bow and arrow --  Law and legislation --  Early works to 1800.</term>
+               <term>Games --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="statute">
+            <pb facs="tcp:187181:1" rendition="simple:additions"/>
+            <head>The effect of certaine branches of the Statute made in Anno xxxiij. Henrici viij. touching the <hi>main<g ref="char:EOLhyphen"/>tenance of Artillerie, and the puniſhment of ſuch as vſe vnlawfull</hi> games, very neceſſary to be put in execution.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Irſt, that all fathers, gouernors, and rulers of ſuch as be tender of age, doe teach and bring them vp in the knowledge of ſhooting: and that euery man hauing a man childe, or men children in his houſe, ſhall pro<g ref="char:EOLhyphen"/>uide, ordeine, and haue in his houſe for euery man childe, being of the age of ſeuen yeeres and aboue, til he ſhall come to the age of ſeuenteene yeeres, a bow and two ſhafts, to induce and learne them, and bring them vp in ſhooting, and ſhall deliuer all the ſame bow and Arrowes to the ſame yong men to vſe and occupy. And if the ſame yong men be ſeruants, that then their maſter ſhall abate the money that they ſhall pay for the ſame bowes and arrowes of their wages. And after all ſuch yong men ſhall come to the age of ſeuenteene yeres, euery of them ſhall prouide and haue a bow and foure arrowes continually for himſelfe, at his proper coſtes and charges, or elſe of the gift or prouiſion of his friends, and vſe and cocupy the ſame in ſhooting, as is before rehearſed. And if the maſter ſuffer any of his ſeruants taking wages, being in his houſhold, and vnder the age of ſeuenteene yeeres, to lacke a bow and two arrowes, contrary to the forme of this eſtatute, by the ſpace of one moneth together, then the maſter or father in whom ſuch negligence ſhal be, ſhal for euery ſuch default forfeit vi.s.viii.d. and that euery ſeruant paſſing the age of ſeuenteene yeeres, and vnder the age of threeſcore yeeres, and taking wages, which can or is able to ſhoot, and ſhal lacke a bow and foure arrowes by the ſpace of one moneth together, ſhall for euery ſuch default forfeit and loſe vi.s.viii.d.</p>
+            <p>Item, that no perſon by himſelfe, factor, deputie, ſeruant, or other perſon, ſhall for his or their gaine, lucre, or liuing, keepe, haue, hold, occupie, exerciſe, or mainteine, any common houſe, alley, or place of bowling, coiting, cloiſe, coiles, halfe bowle, tennis, diſing, table, or carding, or any other maner of game, prohibited by any ſtatute heretofore made, or any vnlawfull new game now inuented or made, or hereafter to be inuented, found, had, or made, vpon paine to forfeit and pay for euery day keeping, ha<g ref="char:EOLhyphen"/>uing, mainteining, or ſuffering any ſuch game to be had, kept, executed, played, or mainteined within any ſuch houſe, garden, alley, or other place, contrary to the forme and effect of this eſtatute, xl.s. and the players ſo taken, to pay for euery time vi.s.viii.d.</p>
+            <p>Item, that the Iuſtices of Peace, and euery Maior, Shiriffe, Bailiffe, Conſtable, or other head Offi<g ref="char:EOLhyphen"/>cer, haue authoritie to enter into all places, aſwell within Franchiſes or elſewhere, and the perſons offending in any of the premiſſes, to take and put in priſon, vntil ſuch time they put in ſureties no more to ſuffer, occupy, or commit the ſaid offences.</p>
+            <p>Item, that all Maiors, Shiriffes, Bailiffes, Conſtables, and other head Officers within euery Ci<g ref="char:EOLhyphen"/>tie, Borough, and Towne within this Realme, where any ſuch Officers ſhal fortune to be, aſwel with<g ref="char:EOLhyphen"/>in the Franchiſes as without, ſhall make due ſearch weekely, or at the furtheſt at all times hereafter once euery moneth in all places, where any ſuch houſes, Alleys, Play, or Playes ſhalbe ſuſpected to be had, kept, and mainteined. And if the ſaid Maiors, Shiriffes, Bailiffes, Conſtables, and other head Officers, within their Cities, Boroughs, and Townes, aſwell within Franchiſes, as without, doe not make due ſearch at the furtheſt once euery moueth, if the caſe ſo require, according to the tenor of this Act, and do not execute the ſame, in all things according to the purport and force of the ſame: that then euery ſuch Maior, Shiriffes, Bailiffes, Conſtables, or other head Officer, to pay and forfeit for euery moneth not making ſuch ſearch, nor executing the ſame, xl.s.</p>
+            <p>Item, that no Artificer, or handycrafts man of any occupation, Huſbandman, Apprentice, Labou<g ref="char:EOLhyphen"/>rer, ſeruant of Huſbandry, Iourney man, or ſeruant, or Artificer, Mariner, Fiſherman, Waterman, or any Seruingman, may vſe any vnlawfull game.</p>
+            <p>Item, that all that play at Bowles or any other vnlawfull game in the fields, to looſe for euery ſuch time vi.s.viii.d. and to be committed to priſon, vnto ſuch time they put in ſureties no more to vſe the ſame.</p>
+            <p>Item, this Statute to be proclaimed foure times euery yeere, and the like to be done in all Aſſiſes and Seſſions, and to continue for euer.</p>
+            <p>
+               <hi>Memorandum,</hi> that there is a prouiſo in this Statute for all men of worſhip, which may diſpend one hundred pounds yeerely and vpwards, may vſe theſe games with diſcretion at their pleaſures.</p>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by Robert Barker, Printer to the Kings moſt Excellent Maieſtie. Anno Dom. 1608.</p>
+            <p>
+               <hi>¶ Cum priuilegio Regiae Maiestatis.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
